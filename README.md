@@ -139,8 +139,8 @@ Verifikasi email. </li>
 </pre>
 
 
-<h2> Pertanyaan &amp; amp; Dukungan </h2>
+<h2> Pertanyaan & Dukungan </h2>
 
-<p> Masih ada pertanyaan? Tinggalkan saja komentar. Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
+<p> Masih ada pertanyaan? Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
 
 <p> <b> Situs web: </b> <a href="https://www.medialova.com/" target="_blank"> https://www.medialova.com/ </a> </p>
