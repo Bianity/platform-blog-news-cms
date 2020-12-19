@@ -143,4 +143,4 @@ Verifikasi email. </li>
 
 <p> Masih ada pertanyaan? Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
 
-<p> <b> Situs web: </b> <a href="https://www.medialova.com/" target="_blank"> https://www.medialova.com/ </a> </p>
+<p> <b> Situs web: </b> <a href="https://www.medialova.com/post/platform-blog-news-cms" target="_blank"> https://www.medialova.com/ </a> </p>
