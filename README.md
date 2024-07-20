@@ -46,5 +46,5 @@
 <p><strong>Pertanyaan &amp; Dukungan</strong></p>
 <p>Masih ada pertanyaan? Atau kamu membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami.</p>
 <p><b>Situs web:<span>&nbsp;</span></b><strong><a href="https://demo.bianity.com/" target="_blank" rel="noopener">Demo</a></strong></p>
-rtanyaan? Atau kamu membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami.</p>
+Punya pertanyaan? Atau kamu membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami.</p>
 <p><b>Situs web:<span>&nbsp;</span></b><strong><a href="https://demo.bianity.com/" target="_blank" rel="noopener">Demo</a></strong></p>
