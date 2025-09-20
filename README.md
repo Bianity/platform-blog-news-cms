@@ -4,21 +4,21 @@
 <p class="block-content"><strong>Bianity - News &amp; Magazine Script</strong>&nbsp;adalah script PHP yang sepenuhnya responsive &amp; multiguna dengan tampilan yang super elegant dibalut dengan warna-warna gradien, tentunya hal ini akan membuat kreator semakin betah dalam mengerjakan tulisan projek konten artikelnya.</p>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746218154.jpg" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746218154.jpg" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746218154.jpg" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746218154.jpg" /></figure>
 </div>
 <div class="block-wrapper--default">
 <p class="block-content">Platform ini sangat cocok digunakan untuk blog berita, portofolio, atau blog komunitas. Dengan dasbor yang lebih canggih, kamu bisa melihat siapa yang mengunjungi situs web kamu seperti negara mereka, halaman mana yang paling menarik bagi mereka, perangkat apa yang mereka gunakan, sistem operasi dan masih banyak lagi.</p>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746216956.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746216956.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746216956.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746216956.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746216977.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746216977.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746216977.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746216977.png" /></figure>
 </div>
 <div class="block-wrapper--default block-content">
 <figure class="content-quote flex">
 <div class="ml-4 flex grow flex-col">
-<blockquote"><h2>Coba Lihat:&nbsp;<a href="https://bianity.me/story/bianity-blogging-platform">Bianity - Blogging Platform</h2></a></blockquote>
+<blockquote"><h2>Coba Lihat:&nbsp;<a href="https://hailovers.com/story/bianity-blogging-platform">Bianity - Blogging Platform</h2></a></blockquote>
 </div>
 </figure>
 </div>
@@ -278,7 +278,7 @@
 <div class="block-wrapper--default block-content">
 <figure class="content-quote flex">
 <div class="ml-4 flex grow flex-col">
-<blockquote"><h2>Coba Lihat:&nbsp;<a href="https://bianity.me/story/318-aplikasi-sistem-inventaris-lengkap-berbasis-web-codeigniter">Aplikasi Sistem Inventaris Lengkap Berbasis Web CodeIgniter</h2></a></blockquote>
+<blockquote"><h2>Coba Lihat:&nbsp;<a href="https://hailovers.com/story/318-aplikasi-sistem-inventaris-lengkap-berbasis-web-codeigniter">Aplikasi Sistem Inventaris Lengkap Berbasis Web CodeIgniter</h2></a></blockquote>
 </div>
 </figure>
 </div>
@@ -299,38 +299,38 @@
 <div class="block-content content-block-delimiter">***</div>
 </div>
 <div class="block-wrapper--default">
-<p class="block-content"><strong>Demo</strong>:&nbsp;<a href="https://demo.bianity.me/">https://demo.bianity.me</a></p>
+<p class="block-content"><strong>Demo</strong>:&nbsp;<a href="https://chatgpt.bianity.me/">https://demo.hailovers.com</a></p>
 </div>
 <div class="block-wrapper--default">
 <p class="block-content"><strong>Download</strong>:&nbsp;<a href="https://store.bianity.me/product-details/bianity-news-magazine-script-media-love-story/21">Bianity - News &amp; Magazine Script (Media Love Story)</a></p>
 </div>
 <h2 class="block-content">Screenshot</h2>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217223.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217223.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217223.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217223.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217235.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217235.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217235.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217235.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217243.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217243.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217243.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217243.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217250.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217250.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217250.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217250.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217282.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217282.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217282.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217282.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217291.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217291.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217291.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217291.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217297.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217297.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217297.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217297.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217304.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217304.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217304.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217304.png" /></figure>
 </div>
 <div class="block-wrapper--media block-content">
-<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://bianity.me/uploads/stories/img/1746217313.png" alt="image" loading="lazy" data-zoom-src="https://bianity.me/uploads/stories/img/1746217313.png" /></figure>
+<figure class="content-block-image"><img class="rounded-xl medium-zoom-image" src="https://hailovers.com/uploads/stories/img/1746217313.png" alt="image" loading="lazy" data-zoom-src="https://hailovers.com/uploads/stories/img/1746217313.png" /></figure>
 </div>
 </div>
-<div class="my-2 flex flex-wrap items-center gap-3 px-4 sm:px-6"><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://bianity.me/tag/news-magazine-script">#News &amp; Magazine Script</a><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://bianity.me/tag/bianity-blogging-platform">#Bianity - Blogging Platform</a><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://bianity.me/tag/blogging-community">#Blogging Community</a><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://bianity.me/tag/bianity-news-magazine-script">#Bianity - News &amp; Magazine Script</a></div>
+<div class="my-2 flex flex-wrap items-center gap-3 px-4 sm:px-6"><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://hailovers.com/tag/news-magazine-script">#News &amp; Magazine Script</a><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://hailovers.com/tag/bianity-blogging-platform">#Bianity - Blogging Platform</a><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://hailovers.com/tag/blogging-community">#Blogging Community</a><a class="cursor-pointer text-primary font-medium hover:text-primary/90" href="https://hailovers.com/tag/bianity-news-magazine-script">#Bianity - News &amp; Magazine Script</a></div>
