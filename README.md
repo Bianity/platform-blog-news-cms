@@ -302,7 +302,7 @@
 <p class="block-content"><strong>Demo</strong>:&nbsp;<a href="https://chatgpt.hailovers.com/">https://demo.hailovers.com</a></p>
 </div>
 <div class="block-wrapper--default">
-<p class="block-content"><strong>Download</strong>:&nbsp;<a href="https://store.bianity.me/product-details/bianity-news-magazine-script-media-love-story/21">Bianity - News &amp; Magazine Script (Media Love Story)</a></p>
+<p class="block-content"><strong>Download</strong>:&nbsp;<a href="https://chatgpt.hailovers.com/product-details/bianity-news-magazine-script-media-love-story/21">Bianity - News &amp; Magazine Script (Media Love Story)</a></p>
 </div>
 <h2 class="block-content">Screenshot</h2>
 <div class="block-wrapper--media block-content">
